@@ -1,0 +1,30 @@
+{
+  "match": {
+    "id": 1,
+    "teams": {
+      "teamA": "Bangladesh",
+      "teamB": "India"
+    },
+    "venue": "Sher-e-Bangla National Stadium, Dhaka",
+    "status": "Live",
+    "overs": "12.4",
+    "toss": "Bangladesh won the toss and chose to bat"
+  },
+  "scoreboard": {
+    "teamA": {
+      "runs": 98,
+      "wickets": 3,
+      "overs": 12.4,
+      "batsmen": [
+        { "name": "Liton Das", "runs": 42, "balls": 28, "fours": 5, "sixes": 1, "status": "not out" },
+        { "name": "Shakib Al Hasan", "runs": 18, "balls": 15, "fours": 2, "sixes": 0, "status": "batting" }
+      ]
+    },
+    "teamB": {
+      "runs": 0,
+      "wickets": 0,
+      "overs": 0.0,
+      "yetToBat": ["Rohit Sharma", "Virat Kohli", "KL Rahul"]
+    }
+  }
+}
